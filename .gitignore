@@ -2,3 +2,4 @@
 .idea/
 secret.py
  __pycache__/
+  __pycache__/loader.cpython-310.pyc

@@ -1,2 +1,0 @@
-# sudoku-bot
-telegram bot
