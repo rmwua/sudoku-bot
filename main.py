@@ -1,6 +1,7 @@
 import telebot
+import secret
 
-bot = telebot.TeleBot("7181125120:AAFeoQhI2k7plERQ9kyuDfWfnYZuCTOqgAU")
+bot = telebot.TeleBot(secret.secret)
 
 
 @bot.message_handler(commands=["start", "help"])
