@@ -9,3 +9,4 @@ def bot_echo(message: Message):
     bot.reply_to(
         message, "Эхо без состояния или фильтра.\n" f"Сообщение: {message.text}"
     )
+
